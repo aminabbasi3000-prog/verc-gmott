@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/savage",
+      "destination": "http://193.163.201.101:443/savage"
+    }
+  ]
+}
