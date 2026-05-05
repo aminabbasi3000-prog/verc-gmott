@@ -4,6 +4,10 @@
     {
       "source": "/savage",
       "destination": "http://193.163.201.101:443/savage"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
